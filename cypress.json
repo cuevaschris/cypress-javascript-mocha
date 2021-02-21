@@ -1,0 +1,11 @@
+{
+  "watchForFileChanges": false,
+  "chromeWebSecurity": false,
+  "viewportWidth": 1920,
+  "viewportHeight": 1080,
+  "projectId": "bqzd3w",
+  "retries": {
+    "runMode": 2,
+    "openMode": 0
+  }
+}
